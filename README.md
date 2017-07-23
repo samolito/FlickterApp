@@ -39,9 +39,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 Portrait
-<img src='http://i.imgur.com/samolito/FlickterApp.git/Flickster_1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/samolito/FlickterApp.git/Flickster_1.gif' title='MovieApp Walkthrough' width='' alt='MovieApp Walkthrough' />
+
 Landscape
-<img src='http://i.imgur.com/samolito/FlickterApp.git/Flickster_1.gif'title='MovieApp(land) Walkthrough' width='' alt='MovieApp(land) Walkthrough' />
+<img src='https://github.com/samolito/FlickterApp.git/Flickster_2.gif' title='MovieApp(land) Walkthrough' width='' alt='MovieApp(land) Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
